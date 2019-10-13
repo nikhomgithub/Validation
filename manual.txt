@@ -1,0 +1,12 @@
+Front End 
+
+matchWithRegEx(regEx, field, message)
+checkIfEmpty()
+checkIfOnlyLetters()
+meetLength()
+containsCharacters() 
+  Must contain at least one letter
+  Must contain at least one letter and one number
+  Must contain at least one uppercase, one lowercase letter and one number
+  Must contain at least one uppercase, one lowercase letter, one number and one special character
+  Must be a valid email address
